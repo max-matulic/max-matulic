@@ -1,6 +1,6 @@
 ### Hi there, I'm Max 👋
 
-## I'm a undergraduate student at Algebra college in Zagreb, Croatia.
+## I'm an undergraduate student at Algebra college in Zagreb, Croatia.
 
 - 🌱 I’m currently learning front-end coding languages
 - 👀 I’m interested in front-end development
