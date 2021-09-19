@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning front-end coding languages
 - 👀 I’m interested in front-end development
-- 🥅 2021 Goals: Get really good at react javascript framework
+- 🥅 2021 Goals: Get really good at react javascript library
 
 ### Connect with me:
 
